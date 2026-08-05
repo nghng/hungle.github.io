@@ -33,7 +33,7 @@ latest_posts:
   }
 </style>
 
-My full name is Lê Ngọc Hùng, but Hùng is enough — here is a [pronunciation guide](https://www.youtube.com/watch?v=dFSvCylIDIc) if you are curious.
+My full name is Lê Ngọc Hùng, but Hùng is enough, here is a [pronunciation guide](https://www.youtube.com/watch?v=dFSvCylIDIc) if you are curious.
 
 As you might have guessed, I'm Vietnamese. I majored in Software Engineering for my bachelor's, worked about two years as a software engineer, and then felt like I wanted to learn more about, well, just anything (literally anything). So I went for a master's degree to do research in **voice privacy**. Most of my work concerns voice conversion, text-to-speech and automatic speaker verification for privacy applications.
 
