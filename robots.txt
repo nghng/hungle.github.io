@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nghng.github.io/hungle.github.io/sitemap.xml
+Sitemap: https://hungln.com/sitemap.xml
